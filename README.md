@@ -1,2 +1,2 @@
 This project is my first demo project of SpringBoot.
-I am learning these things.
+The project controls login and logout information of an user.
